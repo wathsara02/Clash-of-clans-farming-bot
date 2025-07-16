@@ -4,8 +4,7 @@ A smart farming automation bot for Clash of Clans that:
 
 - Automatically starts searching or attacking.
 - Uses OCR for loot detection.
-- If the detected loot exceeds a threshold:
-  - Deploys Electro Dragons, Balloons, Rage Spells, Heroes, and Siege Machines.
+- If the detected loot exceeds a threshold: - Deploys Electro Dragons, Balloons, Rage Spells, Heroes, and Siege Machines.
 - After the attack, detects the collected loot and returns home.
 - Repeats this process until the user stops.
 - Protects usage via Firebase-bound license key.
